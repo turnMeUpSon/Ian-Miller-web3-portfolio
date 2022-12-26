@@ -2,8 +2,6 @@
 
 # My code
 
-# My code
-
 ## Technology Stack & Tools
 
 - Javascript (React)
