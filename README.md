@@ -1,5 +1,7 @@
 # Portfolio Template
 
+# My code
+
 ## Technology Stack & Tools
 
 - Javascript (React)
@@ -54,4 +56,5 @@ For the basic build settings, it should automatically detect _Create React App_.
 You can leave **Base Directory** empty then click on Deploy site.
 
 After the build is complete, the link to the site will be shown at the end of the console output.
+
 # Ian-Miller-web3-portfolio
