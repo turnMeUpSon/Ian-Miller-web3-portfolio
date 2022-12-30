@@ -1,3 +1,5 @@
+import cv from "../assets/Ian-CV-Web3.docx.pdf";
+
 const Social = () => {
   return (
     <div className="social">
@@ -6,6 +8,11 @@ const Social = () => {
       <a href="" className="button">
         milleryan2003@gmail.com
       </a>
+
+      <a href={cv} className="button" download target="_blank">
+        <i class="fa fa-download"></i>Download my CV
+      </a>
+
       <a
         href="https://www.linkedin.com/in/ian-miller-620a63245/"
         className="button"
