@@ -1,6 +1,4 @@
 // Import Assets
-import uniswap from "../assets/uniswap.png";
-import compound from "../assets/compound.png";
 import hilo from "../assets/hilo.png";
 import domain_nft_marketplace from "../assets/domain-nft-marketplace.png";
 import hiloswap from "../assets/hiloswap.png";
