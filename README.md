@@ -1,7 +1,5 @@
 # Portfolio Template
 
-# My code
-
 ## Technology Stack & Tools
 
 - Javascript (React)
