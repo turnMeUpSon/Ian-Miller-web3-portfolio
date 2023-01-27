@@ -6,7 +6,7 @@ const Experience = () => {
       <ul>
         <li>
           <i>Higher School of Economics - Bachelor degree in Cybersecurity</i>,
-          2018-2022
+          2021-2025
         </li>
       </ul>
     </div>
