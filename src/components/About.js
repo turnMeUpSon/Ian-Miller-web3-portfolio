@@ -3,7 +3,7 @@ const About = () => {
     <section className="about">
       <h2>About Me</h2>
       <p>
-        I am a Junior Solidity smart contract engineer and I am very obsessed
+        I am a DeFi researcher and smart contract auditor and I am very obsessed
         with blockchain and web3 industry. Below I attached my the most valuable
         achievements:
         <ul>
