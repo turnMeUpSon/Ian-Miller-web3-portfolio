@@ -1,4 +1,4 @@
-import cv from "../assets/Ian-CV-Web3.docx.pdf";
+import cv from "../assets/Ian-Miller-CV-Web3.pdf";
 
 const Social = () => {
   return (
