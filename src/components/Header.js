@@ -8,7 +8,7 @@ const Header = () => {
 
       <div className="header__content">
         <h1>Hi, I'm Ian Miller</h1>
-        <p>Solidity Smart Contract Engineer</p>
+        <p>DeFi researcher and smart contract auditor</p>
         <button className="button">
           <a
             href="https://www.linkedin.com/in/ian-miller-620a63245/"
